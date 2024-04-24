@@ -1,0 +1,1 @@
+2024-04-04T14:08:15.358+03:00 ERROR 24508 --- [SB-PostgreSQL-Tutorial] [http-nio-8080-exec-1] c.e.s.P.C.CreateProductCommandHandler    : Product Not Valid Exception was thrown (invalid quantity) Product(id=null, name=null, description=Gaming Laptop, price=100.0, quantity=-11)
